@@ -1,0 +1,16 @@
+=======
+CHANGES
+=======
+
+0.2.0 (2009-07-14)
+------------------
+
+- Allow use widget with different value_type fields
+
+- Copyright changed to 'Zope Foundation and Contributors'
+
+
+0.1.0 (2009-01-21)
+------------------
+
+- Initial release.
